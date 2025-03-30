@@ -1,0 +1,38 @@
+body {
+    padding-top: 56px;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    margin-top: 20px;
+}
+
+.app-logo {
+    max-width: 150px;
+}
+
+.link-box {
+    border: 1px solid #dee2e6;
+    padding: 20px;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+}
+
+.link-box:hover {
+    background-color: #e9ecef;
+    cursor: pointer;
+}
+
+a.link-box {
+    text-decoration: none;
+    color: inherit;
+}
+
+.word-card { 
+    margin-bottom: 20px; 
+}
+
+.quiz-question { 
+    margin-bottom: 30px; 
+}
